@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ItemActivity">
+
+    <ImageView
+        android:id="@+id/item_image"
+        android:layout_width="375dp"
+        android:layout_height="375dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/sapphire_djellaba" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/chapaza"
+        android:text="Sapphire Djellaba"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/item_image"
+        app:layout_constraintTop_toBottomOf="@+id/item_image" />
+
+    <TextView
+        android:id="@+id/price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/chapaza"
+        android:text="£175.00"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="@+id/textView11"
+        app:layout_constraintStart_toStartOf="@+id/textView11"
+        app:layout_constraintTop_toBottomOf="@+id/textView11" />
+
+    <ToggleButton
+        android:id="@+id/buttonS"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/size_shape"
+        android:textColor="@color/black"
+        android:textOff="S"
+        android:textOn="S"
+        app:layout_constraintStart_toStartOf="@+id/item_image"
+        app:layout_constraintTop_toBottomOf="@+id/price" />
+
+    <ToggleButton
+        android:id="@+id/buttonM"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="30dp"
+        android:background="@drawable/size_shape"
+        android:textColor="@color/black"
+        android:textOff="M"
+        android:textOn="M"
+        app:layout_constraintBottom_toBottomOf="@+id/buttonS"
+        app:layout_constraintStart_toEndOf="@+id/buttonS"
+        app:layout_constraintTop_toTopOf="@+id/buttonS" />
+
+    <ToggleButton
+        android:id="@+id/buttonL"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:layout_marginEnd="30dp"
+        android:background="@drawable/size_shape"
+        android:textColor="@color/black"
+        android:textOff="L"
+        android:textOn="L"
+        app:layout_constraintBottom_toBottomOf="@+id/buttonM"
+        app:layout_constraintEnd_toStartOf="@+id/buttonXL"
+        app:layout_constraintTop_toTopOf="@+id/buttonM" />
+
+    <ToggleButton
+        android:id="@+id/buttonXL"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:background="@drawable/size_shape"
+        android:text="ToggleButton"
+        android:textColor="@color/black"
+        android:textOff="XL"
+        android:textOn="XL"
+        app:layout_constraintBottom_toBottomOf="@+id/buttonL"
+        app:layout_constraintEnd_toEndOf="@+id/item_image"
+        app:layout_constraintTop_toTopOf="@+id/buttonL" />
+
+    <Button
+        android:id="@+id/proceedButton"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="50dp"
+        android:text="Proceed"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonS" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

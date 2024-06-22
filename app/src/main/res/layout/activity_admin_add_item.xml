@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/chapaza"
+        android:text="Add Item"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Spinner
+        android:id="@+id/itemTypeSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:entries="@array/item_types"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView26" />
+
+    <EditText
+        android:id="@+id/itemNameEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:hint="Item Name"
+        app:layout_constraintEnd_toEndOf="@+id/itemTypeSpinner"
+        app:layout_constraintStart_toStartOf="@+id/itemTypeSpinner"
+        app:layout_constraintTop_toBottomOf="@+id/itemTypeSpinner" />
+
+    <EditText
+        android:id="@+id/itemPriceEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="Item Price"
+        app:layout_constraintEnd_toEndOf="@+id/itemNameEditText"
+        app:layout_constraintStart_toStartOf="@+id/itemNameEditText"
+        app:layout_constraintTop_toBottomOf="@+id/itemNameEditText" />
+
+    <ImageView
+        android:id="@+id/itemImageView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="20dp"
+        android:contentDescription="Item Image"
+        android:scaleType="fitCenter"
+        android:src="@drawable/baseline_add_photo_alternate_24"
+        app:layout_constraintEnd_toEndOf="@+id/itemPriceEditText"
+        app:layout_constraintStart_toStartOf="@+id/itemPriceEditText"
+        app:layout_constraintTop_toBottomOf="@+id/itemPriceEditText" />
+
+    <Button
+        android:id="@+id/selectImageButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Select Image"
+        app:layout_constraintEnd_toEndOf="@+id/itemImageView"
+        app:layout_constraintStart_toStartOf="@+id/itemImageView"
+        app:layout_constraintTop_toBottomOf="@+id/itemImageView" />
+
+    <Button
+        android:id="@+id/addItemButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Add Item"
+        app:layout_constraintEnd_toEndOf="@+id/selectImageButton"
+        app:layout_constraintStart_toStartOf="@+id/selectImageButton"
+        app:layout_constraintTop_toBottomOf="@+id/selectImageButton" />
+</androidx.constraintlayout.widget.ConstraintLayout>

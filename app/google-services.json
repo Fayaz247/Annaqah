@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344154737515",
+    "project_id": "annaqah-4c635",
+    "storage_bucket": "annaqah-4c635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344154737515:android:e6fe2f50e82b135000da2e",
+        "android_client_info": {
+          "package_name": "com.example.annaqah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJsgffufK_LfhhDsFv18TBlnNqHPpPT8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

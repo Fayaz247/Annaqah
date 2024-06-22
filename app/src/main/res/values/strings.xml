@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Annaqah</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="djellaba">Djellaba Collection</string>
+    <string name="djellaba_desc">
+        The Djellaba, alternatively spelled as jillaba or gallabea, is a traditional, spacious, full-sleeved male garment resembling a robe or dress, usually worn in the Maghreb region of North Africa.\n\nThis collection consists of three handmade Djellabas, Obsidian Djellaba, Ruby Djellaba and Sapphire Djellaba.
+    </string>
+
+    <string-array name="item_types">
+        <item>Casa</item>
+        <item>Djellaba</item>
+        <item>Hoceima</item>
+    </string-array>
+
+</resources>
