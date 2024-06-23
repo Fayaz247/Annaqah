@@ -32,62 +32,63 @@ This project is an e-commerce application focused on selling traditional Morocca
 
 ### User Side
 #### Splash Screen
-![Splash Screen](![splashScreen](https://github.com/Fayaz247/Annaqah/assets/119886297/010ed779-2175-4733-a38a-4d0a334fb26b))
+![splashScreen](https://github.com/Fayaz247/Annaqah/assets/119886297/f4ab0217-809d-4f89-b275-7d5644f4a8bc)
+
 
 
 #### Start Screen
-![Start Screen](![startScreen](https://github.com/Fayaz247/Annaqah/assets/119886297/f8f2e72a-42e5-46aa-9f17-307d0420459e))
+![startScreen](https://github.com/Fayaz247/Annaqah/assets/119886297/b4c2067a-e2b9-4bd6-8773-6c4fb44a84d4)
 
 #### Register Screen
-![Register Screen](![registerPage](https://github.com/Fayaz247/Annaqah/assets/119886297/20eae71e-01ed-4d63-a249-7bde8d399e0e))
+![registerPage](https://github.com/Fayaz247/Annaqah/assets/119886297/0846cb65-0b49-4473-9081-287d583dcc8c)
 
 #### Login Screen
-![Login Screen](![loginPage](https://github.com/Fayaz247/Annaqah/assets/119886297/06aefdbf-aba4-485d-b63f-6bc0988e934c))
+![loginPage](https://github.com/Fayaz247/Annaqah/assets/119886297/0af8778a-746b-4b88-9bb6-09a3ca8c6df7)
 
 #### Home Page
-![Home Page](![homePage](https://github.com/Fayaz247/Annaqah/assets/119886297/e29a8bcd-bbc5-4a5f-9d17-39da700ae1e5)
-)
+![homePage](https://github.com/Fayaz247/Annaqah/assets/119886297/75432c61-7cfa-4b8b-a70c-3d0a875734d2)
+
 
 #### Shop Page
-![Shop Page](![shopPage](https://github.com/Fayaz247/Annaqah/assets/119886297/ccaebd77-5b3a-4b0c-a9d0-90aa593b98ad)
-)
+![shopPage](https://github.com/Fayaz247/Annaqah/assets/119886297/c0ce0ccd-781b-4275-9c3c-b26233d8ec64)
+
 
 #### Profile
-![Shop Page](![profilePage](https://github.com/Fayaz247/Annaqah/assets/119886297/f0730dc9-1ad8-4f48-9a6f-60524691e160)
-)
+![profilePage](https://github.com/Fayaz247/Annaqah/assets/119886297/ad247656-e88c-49ee-89f0-3bfb1b5aec2f)
+
 
 #### Items Page
-![Items Page](![itemsPage](https://github.com/Fayaz247/Annaqah/assets/119886297/c6d542fc-11ea-440f-9cee-12d7124252c2)
-)
+![itemsPage](https://github.com/Fayaz247/Annaqah/assets/119886297/67a466b1-6498-4389-ad33-7b4714869ec7)
+
 
 #### Item Detail Page
-![Item Detail Page](![itemDetails](https://github.com/Fayaz247/Annaqah/assets/119886297/f9db0abc-6d0a-4eee-89cb-303c0beb279a)
-)
+![itemDetails](https://github.com/Fayaz247/Annaqah/assets/119886297/84f09ef9-86ee-41c6-8699-3390b8ed516b)
+
 
 #### Payment Page
-![Payment Page](![paymentPage](https://github.com/Fayaz247/Annaqah/assets/119886297/22183fe8-f1f7-4c62-875d-31e7e87739db)
-)
+![paymentPage](https://github.com/Fayaz247/Annaqah/assets/119886297/91169a7b-e3d4-420d-895d-e24cb4a6915e)
+
 
 #### Order Confirmation Page
-![Order Confirmation Page](![confirmPage](https://github.com/Fayaz247/Annaqah/assets/119886297/1fb5c521-12d5-4221-b46d-8021f0a6be99)
-)
+![confirmPage](https://github.com/Fayaz247/Annaqah/assets/119886297/5431f51b-d6da-4a51-a43b-48fa69db7553)
+
 
 #### View Orders Page
-![View Orders Page](![ordersPage](https://github.com/Fayaz247/Annaqah/assets/119886297/233df730-10e8-4a23-bcd4-778b1a7761a1)
-)
+![ordersPage](https://github.com/Fayaz247/Annaqah/assets/119886297/19ddf0b9-e11d-44a5-8cc2-fe5666d4ddee)
+
 
 ### Admin Side
+
 #### Admin Home Page
-![Admin Home Page](![adminHome](https://github.com/Fayaz247/Annaqah/assets/119886297/ff87582a-7d48-4030-b6e9-05025c3c0978)
-)
+![adminHome](https://github.com/Fayaz247/Annaqah/assets/119886297/72ef82af-c27c-4791-a06d-1fda81c7aaf3)
+
 
 #### Add Item Page
-![Add Item Page](![adminAdd](https://github.com/Fayaz247/Annaqah/assets/119886297/754d09e5-deb9-42b4-95f0-257a08ff52b9)
-)
+![adminAdd](https://github.com/Fayaz247/Annaqah/assets/119886297/493d6700-d624-4429-8f15-5789ab0f62ba)
+
 
 #### Admin View Orders Page
-![Admin View Orders Page](![adminOrders](https://github.com/Fayaz247/Annaqah/assets/119886297/d6fd2c4d-d38e-4108-b802-d44de8f95a85)
-)
+![adminOrders](https://github.com/Fayaz247/Annaqah/assets/119886297/3eb8ff34-ccc0-4f6c-9684-3958a834fa78)
 
 ## Usage
 1. **Clone the repository**:
