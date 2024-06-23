@@ -1,7 +1,7 @@
 # Annaqah - A Moroccan Clothing E-commerce App
 
 ## Overview
-This project is an e-commerce application focused on selling traditional Moroccan clothing. The app includes separate interfaces for users and admins, all seamlessly connected through Firebase. Screenshots can be found below.
+This project is an e-commerce application focused on selling traditional Moroccan clothing. The app was built using the MVVM structure and includes separate interfaces for users and admins, all seamlessly connected through Firebase. Screenshots can be found below.
 
 ## Features
 ### User Side
