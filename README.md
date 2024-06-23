@@ -1,7 +1,7 @@
 # Annaqah - A Moroccan Clothing E-commerce App
 
 ## Overview
-This project is an e-commerce application focused on selling traditional Moroccan clothing. The app includes separate interfaces for users and admins, all seamlessly connected through Firebase. 
+This project is an e-commerce application focused on selling traditional Moroccan clothing. The app includes separate interfaces for users and admins, all seamlessly connected through Firebase. Screenshots can be found below.
 
 ## Features
 ### User Side
@@ -31,51 +31,45 @@ This project is an e-commerce application focused on selling traditional Morocca
 ## Screenshots
 
 ### User Side
-#### Splash Screen
-<img src="https://github.com/Fayaz247/Annaqah/assets/119886297/010ed779-2175-4733-a38a-4d0a334fb26b" width="50%">
 
-#### Start Screen
-<img src="https://github.com/Fayaz247/Annaqah/assets/119886297/f8f2e72a-42e5-46aa-9f17-307d0420459e" width="50%">
+#### Start Screens
 
-#### Register Screen
-<img src="https://github.com/Fayaz247/Annaqah/assets/119886297/20eae71e-01ed-4d63-a249-7bde8d399e0e" width="50%">
+<div align="left">
+    <img src="https://github.com/Fayaz247/Annaqah/assets/119886297/010ed779-2175-4733-a38a-4d0a334fb26b" alt="demo"  width="200" height="400"/>
+    <img src="https://github.com/Fayaz247/Annaqah/assets/119886297/f8f2e72a-42e5-46aa-9f17-307d0420459e" alt="demo"  width="200" height="400"/>
+    <img src="https://github.com/Fayaz247/Annaqah/assets/119886297/20eae71e-01ed-4d63-a249-7bde8d399e0e" alt="demo"  width="200" height="400"/>
+    <img src="https://github.com/Fayaz247/Annaqah/assets/119886297/06aefdbf-aba4-485d-b63f-6bc0988e934c" alt="demo"  width="200" height="400"/>
+</div>
 
-#### Login Screen
-<img src="https://github.com/Fayaz247/Annaqah/assets/119886297/06aefdbf-aba4-485d-b63f-6bc0988e934c" width="50%">
+#### Bottom Menu Fragments
 
-#### Home Page
-<img src="https://github.com/Fayaz247/Annaqah/assets/119886297/e29a8bcd-bbc5-4a5f-9d17-39da700ae1e5" width="50%">
+<div align="left">
+    <img src="https://github.com/Fayaz247/Annaqah/assets/119886297/e29a8bcd-bbc5-4a5f-9d17-39da700ae1e5" alt="demo"  width="200" height="400"/>
+    <img src="https://github.com/Fayaz247/Annaqah/assets/119886297/ccaebd77-5b3a-4b0c-a9d0-90aa593b98ad" alt="demo"  width="200" height="400"/>
+    <img src="https://github.com/Fayaz247/Annaqah/assets/119886297/f0730dc9-1ad8-4f48-9a6f-60524691e160" alt="demo"  width="200" height="400"/>
+</div>
 
-#### Shop Page
-<img src="https://github.com/Fayaz247/Annaqah/assets/119886297/ccaebd77-5b3a-4b0c-a9d0-90aa593b98ad" width="50%">
 
-#### Profile
-<img src="https://github.com/Fayaz247/Annaqah/assets/119886297/f0730dc9-1ad8-4f48-9a6f-60524691e160" width="50%">
+#### Items Selection
+<div align="left">
+    <img src="https://github.com/Fayaz247/Annaqah/assets/119886297/c6d542fc-11ea-440f-9cee-12d7124252c2" alt="demo"  width="200" height="400"/>
+    <img src="https://github.com/Fayaz247/Annaqah/assets/119886297/f9db0abc-6d0a-4eee-89cb-303c0beb279a" alt="demo"  width="200" height="400"/>
+</div>
 
-#### Items Page
-<img src="https://github.com/Fayaz247/Annaqah/assets/119886297/c6d542fc-11ea-440f-9cee-12d7124252c2" width="50%">
-
-#### Item Detail Page
-<img src="https://github.com/Fayaz247/Annaqah/assets/119886297/f9db0abc-6d0a-4eee-89cb-303c0beb279a" width="50%">
-
-#### Payment Page
-<img src="https://github.com/Fayaz247/Annaqah/assets/119886297/22183fe8-f1f7-4c62-875d-31e7e87739db" width="50%">
-
-#### Order Confirmation Page
-<img src="https://github.com/Fayaz247/Annaqah/assets/119886297/1fb5c521-12d5-4221-b46d-8021f0a6be99" width="50%">
-
-#### View Orders Page
-<img src="https://github.com/Fayaz247/Annaqah/assets/119886297/233df730-10e8-4a23-bcd4-778b1a7761a1" width="50%">
+#### Payment and Order
+<div align="left">
+    <img src="https://github.com/Fayaz247/Annaqah/assets/119886297/22183fe8-f1f7-4c62-875d-31e7e87739db" alt="demo"  width="200" height="400"/>
+    <img src="https://github.com/Fayaz247/Annaqah/assets/119886297/1fb5c521-12d5-4221-b46d-8021f0a6be99" alt="demo"  width="200" height="400"/>
+    <img src="https://github.com/Fayaz247/Annaqah/assets/119886297/233df730-10e8-4a23-bcd4-778b1a7761a1" alt="demo"  width="200" height="400"/>
+</div>
 
 ### Admin Side
-#### Admin Home Page
-<img src="https://github.com/Fayaz247/Annaqah/assets/119886297/ff87582a-7d48-4030-b6e9-05025c3c0978" width="50%">
 
-#### Add Item Page
-<img src="https://github.com/Fayaz247/Annaqah/assets/119886297/754d09e5-deb9-42b4-95f0-257a08ff52b9" width="50%">
-
-#### Admin View Orders Page
-<img src="https://github.com/Fayaz247/Annaqah/assets/119886297/d6fd2c4d-d38e-4108-b802-d44de8f95a85" width="50%">
+<div align="left">
+    <img src="https://github.com/Fayaz247/Annaqah/assets/119886297/ff87582a-7d48-4030-b6e9-05025c3c0978" alt="demo"  width="200" height="400"/>
+    <img src="https://github.com/Fayaz247/Annaqah/assets/119886297/754d09e5-deb9-42b4-95f0-257a08ff52b9" alt="demo"  width="200" height="400"/>
+    <img src="https://github.com/Fayaz247/Annaqah/assets/119886297/d6fd2c4d-d38e-4108-b802-d44de8f95a85" alt="demo"  width="200" height="400"/>
+</div>
 
 ## Usage
 1. **Clone the repository**:
